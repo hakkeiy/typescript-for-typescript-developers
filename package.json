@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/hakkeiy/typescript-for-typescript-developers/issues"
   },
-  "homepage": "https://github.com/hakkeiy/typescript-for-typescript-developers#readme"
+  "homepage": "https://github.com/hakkeiy/typescript-for-typescript-developers#readme",
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
 }
